@@ -1,0 +1,13 @@
+Variable: Se podria decir que es como una caja donde podemos guardar nuestras cosas, pero en 
+este caso vamos a guardar datos de nuestro programa
+
+Strings: Podriamos pensar en una union de letras y eso nos da una palabra, entonces podemos decir 
+que un string es un conjunto de letras
+
+Funciones (argumentos, return): Una funcion podemos decir que es un conjunto de instrucciones que 
+podemos usar cuando lo necesitemso, al igual que un botiquin de emergencia, lo usamos cuandoes es necesario
+
+Declaraciones if: Supongamos que tenemos que decidir en dos decisiones, que si una decision es verdadera,entonces
+hacemos las instrucciones que hay en esa decision
+
+Valores booleanos (true, false): Pensemos en  dos unicas respuestas. por ejemplo 2=2 entonces verifica si es verdad o falso, obviamente que es verdad, de igual forma un programa analiza si es verdad o falso y te dá un valor.
