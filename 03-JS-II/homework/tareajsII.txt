@@ -1,0 +1,9 @@
+for: Pensemos que tenemos un conjunto de cosas y en una persona que verifica los elementos
+de ese conjunto para ver si cumplen cierta condicion. Esa persona recorre por cada uno de los elementos y si 
+cumplen la condicion ejecuta un numero de veces las ciertas instrucciones.
+
+&&: Imaginemos que tenemos dos cosa que tenemos que comparar para que se cumpla una sentencia, entonces para eso cada cosa obligatoriamente tienen que tener las mismas caracteristicas.
+
+||: De igual forma que el ejemplo anterior, aquí es un poco diferente. Aquí para que se cumpla una determinada sentencia, cada cosa debe tener al menos una caracteristica en comun.
+
+!: Este signo nos indica que negamos algo, por ejemplo tenemos una afirmació verdadera y con eso se convierte en falsa
